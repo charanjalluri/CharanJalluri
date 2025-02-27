@@ -25,8 +25,7 @@
 
 ### Development & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-17a2b8?style=for-the-badge&logo=gitlab&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white)   
 
 ---
 
