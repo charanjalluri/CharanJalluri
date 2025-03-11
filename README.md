@@ -3,7 +3,7 @@
 ### B.Tech. - CSE - Artificial Intelligence | Parul University
 
 📍 Nidadavolu, Andhra Pradesh, India - 534301  
-📧 [2203031240492@paruluniversity.ac.in](mailto:2203031240492@paruluniversity.ac.in)  
+📧 [charanjalluri797@gmail.com](mailto:charanjalluri797@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jalluri-venkata-satya-charan-904a592a8/)  
 🔗 [GitHub](https://github.com/charanjalluri)  
 
