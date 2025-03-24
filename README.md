@@ -6,6 +6,7 @@
 📧 [charanjalluri797@gmail.com](mailto:charanjalluri797@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jalluri-venkata-satya-charan-904a592a8/)  
 🔗 [GitHub](https://github.com/charanjalluri)  
+![Uploading github gif.gif…]()
 
 ---
 
