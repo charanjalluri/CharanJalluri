@@ -1,3 +1,5 @@
+![github gif](https://github.com/user-attachments/assets/9e71782a-fae3-4562-b35d-b73757b3cf13)
+
 ## Jalluri Venkata Satya Charan
 
 ### B.Tech. - CSE - Artificial Intelligence | Parul University
@@ -6,7 +8,7 @@
 📧 [charanjalluri797@gmail.com](mailto:charanjalluri797@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jalluri-venkata-satya-charan-904a592a8/)  
 🔗 [GitHub](https://github.com/charanjalluri)  
-![Uploading github gif.gif…]()
+
 
 ---
 
